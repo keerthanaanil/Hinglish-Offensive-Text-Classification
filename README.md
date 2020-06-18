@@ -1,7 +1,7 @@
 # Hinglish-Offensive-Text-Classification
 Did you offend me? Classification of Offensive Tweets in Hinglish Language
 
-The repo contains the data set for the paper titled "Did you offend me? Classification of Offensive Tweets in Hinglish Language", accepted at ALW2 Workshop at EMNLP 2018.
+The repo contains the data for the paper titled "Did you offend me? Classification of Offensive Tweets in Hinglish Language", accepted at ALW2 Workshop at EMNLP 2018. Since the data corresponds to publicly available tweets of offensive nature. Twitter's policies forbade us from sharing the data publicly without author consent. Kindly contact the primary author for access to the data resource.
 
 @InProceedings{W18-5118,
   author = 	"Mathur, Puneet
